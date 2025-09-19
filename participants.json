@@ -6,7 +6,7 @@
                 "TermURL": "nb:ParticipantID",
                 "Label": ""
             },
-            "Identifies": "participant"
+            "VariableType": "Identifier"
         }
     },
     "exp_group": {
@@ -27,7 +27,8 @@
                     "TermURL": "snomed:248153007",
                     "Label": ""
                 }
-            }
+            },
+            "VariableType": "Categorical"
         }
     },
     "date_run": {
